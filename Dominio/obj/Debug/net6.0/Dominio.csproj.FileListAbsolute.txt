@@ -1,0 +1,12 @@
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\user\Documents\QUIND\gestion_tareas\GestionTareaAPI\Dominio\obj\Debug\net6.0\ref\Dominio.dll
