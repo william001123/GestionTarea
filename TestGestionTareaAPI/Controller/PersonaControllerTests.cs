@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TestGestionTareaAPI.Controller
 {
+    [TestFixture]
     public class PersonaControllerTests
     {
 
